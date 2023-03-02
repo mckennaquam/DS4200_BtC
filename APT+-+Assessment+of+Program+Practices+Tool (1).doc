@@ -1,0 +1,1901 @@
+Date: Wed, 19 Oct 2022 13:34:06 +0000 (UTC)
+Message-ID: <958095299.5.1666186446476@491e16ad9f02>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_4_1594296068.1666186446474"
+
+------=_Part_4_1594296068.1666186446474
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>APT - Assessment of Program Practices Tool</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>APT - Assessment of Program Practices Tool</h1>
+    <div class=3D"Section1">
+        <p>Observation tool to assess program quality (NIOST)</p><span clas=
+s=3D"confluence-embedded-file-wrapper image-center-wrapper"><img class=3D"c=
+onfluence-embedded-image image-center" loading=3D"lazy" src=3D"be99cc9e1b14=
+c5254d06e63fac84e1e3" data-image-src=3D"https://bostonbeyond.atlassian.net/=
+wiki/download/attachments/1441843/tools_apt.png?version=3D1&amp;modificatio=
+nDate=3D1634239734484&amp;cacheVersion=3D1&amp;api=3Dv2" data-height=3D"327=
+" data-width=3D"744" data-unresolved-comment-count=3D"0" data-linked-resour=
+ce-id=3D"1474618" data-linked-resource-version=3D"1" data-linked-resource-t=
+ype=3D"attachment" data-linked-resource-default-alias=3D"tools_apt.png" dat=
+a-base-url=3D"https://bostonbeyond.atlassian.net/wiki" data-linked-resource=
+-content-type=3D"image/png" data-linked-resource-container-id=3D"1441843" d=
+ata-linked-resource-container-version=3D"14" data-media-id=3D"2ed14d4d-e43a=
+-4627-a9b1-0342114d9603" data-media-type=3D"file" width=3D"468" height=3D"2=
+05"></span>
+<h4 id=3D"APT-AssessmentofProgramPracticesTool-Report(s)"><u>Report(s) </u>=
+</h4>
+<ul>
+<li><p>Program Organization &amp; Structure</p></li>
+<li><p>Supportive Social Environment</p></li>
+<li><p>Engagement in Activities and Learning</p></li>
+</ul>
+<h4 id=3D"APT-AssessmentofProgramPracticesTool-DataPoints"><u>Data Points <=
+/u></h4>
+<div id=3D"expander-2049429955" class=3D"expand-container">
+<div id=3D"expander-control-2049429955" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"03396af9c98cd12a3cdb23b02ea77f4c" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">Expand fo=
+r List of Data Points</span>
+</div>
+<div id=3D"expander-content-2049429955" class=3D"expand-content">
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"7b874012-aaae-4528-9b8a-8bf=
+a1adf20a1" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 174.0px;">
+<col style=3D"width: 584.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Question Code</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Question Text/Data Description</stron=
+g></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>SiteID</p></td>
+<td class=3D"confluenceTd"><p>5 digit Site ID</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>SiteName</p></td>
+<td class=3D"confluenceTd"><p>Site Name as it appears in Partner Portal. Fo=
+rmat =E2=80=9CAgency Name - Site Name=E2=80=9C</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Observation_Date</p></td>
+<td class=3D"confluenceTd"><p>Date of Observation. Format - YYYY-MM-DD</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ArrivalQ01</p></td>
+<td class=3D"confluenceTd"><p>Staff greet/acknowledge youth as they arrive.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ArrivalQ02</p></td>
+<td class=3D"confluenceTd"><p>Youth seem to know the arrival routine and fo=
+llow it gentle reminders.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ArrivalQ03</p></td>
+<td class=3D"confluenceTd"><p>Activities are available for youth to become =
+engaged in as soon as they arrive (may include snack).</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ArrivalQ04</p></td>
+<td class=3D"confluenceTd"><p>Staff engage in friendly exchanges (chats) wi=
+th youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ01</p></td>
+<td class=3D"confluenceTd"><p>Staff clearly communicate when it is time for=
+ a transition, and what they would like the youth to do.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ02</p></td>
+<td class=3D"confluenceTd"><p>Transitions run smoothly; youth know the rout=
+ine.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ03</p></td>
+<td class=3D"confluenceTd"><p>Transitions are handled quickly.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ04</p></td>
+<td class=3D"confluenceTd"><p>Staff interactions (manner, affect, tone) wit=
+h youth are positive and supportive.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ05</p></td>
+<td class=3D"confluenceTd"><p>Staff treat youth respectfully and assume bes=
+t intentions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ06</p></td>
+<td class=3D"confluenceTd"><p>Staff use simple reminders and redirection to=
+ support positive behaviors.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>TransQ07</p></td>
+<td class=3D"confluenceTd"><p>When addressing behavioral issues, staff use =
+strategies that are developmentally appropriate.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_A1</p></td>
+<td class=3D"confluenceTd"><p>There is appropriate and accessible physical =
+space for youth to comfortably do their work.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_A2</p></td>
+<td class=3D"confluenceTd"><p>Homework/academic support time is free from i=
+nterruptions/distractions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_B1</p></td>
+<td class=3D"confluenceTd"><p>Youth are engaged, on-task and focused on the=
+ir work, (or if finished with their work, some other activity).</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_C1</p></td>
+<td class=3D"confluenceTd"><p>Staff help youth get organized and prepared t=
+o do their homework.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_C2</p></td>
+<td class=3D"confluenceTd"><p>Staff interactions (manner, affect, tone) wit=
+h youth are positive and supportive.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_C3</p></td>
+<td class=3D"confluenceTd"><p>Staff treat youth respectfully and assume bes=
+t intentions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_C4</p></td>
+<td class=3D"confluenceTd"><p>Staff use simple reminders and redirection to=
+ support positive behavior.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_D1</p></td>
+<td class=3D"confluenceTd"><p>Staff work to ensure that youth are engaged a=
+nd progressing during homework/academic support time.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_D2</p></td>
+<td class=3D"confluenceTd"><p>Staff encourage individual youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_D3</p></td>
+<td class=3D"confluenceTd"><p>When youth need or ask for help, staff respon=
+d to youth requests in a timely manner.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_D4</p></td>
+<td class=3D"confluenceTd"><p>When youth need or ask for help, staff provid=
+e individualized assistance to youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HWTime_D5</p></td>
+<td class=3D"confluenceTd"><p>When providing assistance to youth, staff hel=
+p youth think through problems or questions themselves rather than offering=
+ answers.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_A01</p></td>
+<td class=3D"confluenceTd"><p>Staff-youth interactions (manner, affect, ton=
+e) are positive and respectful.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_A02</p></td>
+<td class=3D"confluenceTd"><p>Staff engage in friendly exchanges (chats) wi=
+th youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_A03</p></td>
+<td class=3D"confluenceTd"><p>Staff apply rules and limits equitably and co=
+nsistently to youth</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_A04</p></td>
+<td class=3D"confluenceTd"><p>When negative or disrespectful peer interacti=
+ons occur (that are not resolved constructively by youth), staff intervene.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B01</p></td>
+<td class=3D"confluenceTd"><p>Youth are busy and engaged in conversation or=
+ activities.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B02</p></td>
+<td class=3D"confluenceTd"><p>Youth follow program rules and behavioral exp=
+ectations.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B03</p></td>
+<td class=3D"confluenceTd"><p>Youth appear in control; they regulate their =
+behavior and energy to the environment.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B04</p></td>
+<td class=3D"confluenceTd"><p>Peer interactions have a positive affective t=
+one; youth appear to enjoy each other's company.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B05</p></td>
+<td class=3D"confluenceTd"><p>Youth listen (pay attention, focus on) to eac=
+h other.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B06</p></td>
+<td class=3D"confluenceTd"><p>Youth cooperate with each other.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B07</p></td>
+<td class=3D"confluenceTd"><p>Youth are kind, respectful and inclusive of e=
+ach other.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>InfoPro_B08</p></td>
+<td class=3D"confluenceTd"><p>When minor conflicts occur, youth are able to=
+ problem-solve together to resolve conflicts with minimal intervention.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A01</p></td>
+<td class=3D"confluenceTd"><p>Books, games and other program equipment are =
+in good working condition.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A02</p></td>
+<td class=3D"confluenceTd"><p>The environment is conducive to learning.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A03</p></td>
+<td class=3D"confluenceTd"><p>Space is well organized.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A04</p></td>
+<td class=3D"confluenceTd"><p>If program has own space, the indoor space re=
+flects the work of youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A05</p></td>
+<td class=3D"confluenceTd"><p>If program has own space, materials reflect a=
+ wide variety of backgrounds, experiences (abilities, cultures, ethnicities=
+, races and/or religions).</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_A06</p></td>
+<td class=3D"confluenceTd"><p>The space is accessible to all youth and staf=
+f.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_B01</p></td>
+<td class=3D"confluenceTd"><p>Program pace is relaxed and flexible.</p></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_B02</p></td>
+<td class=3D"confluenceTd"><p>Program day flows smoothly and is organized.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_B03</p></td>
+<td class=3D"confluenceTd"><p>Program offers youth a balance of activities =
+and a variety of experiences.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_B04</p></td>
+<td class=3D"confluenceTd"><p>Program offers youth a balance of instruction=
+al approaches.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_B05</p></td>
+<td class=3D"confluenceTd"><p>Program day offers a balance of group sizes.<=
+/p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C01</p></td>
+<td class=3D"confluenceTd"><p>Staff-youth interactions (manner, affect, ton=
+e of voice) are positive and respectful.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C02</p></td>
+<td class=3D"confluenceTd"><p>Staff apply rules and limits equitably and co=
+nsistently to youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C03</p></td>
+<td class=3D"confluenceTd"><p>Staff are respectful and supportive of one an=
+other, cooperate with one another.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C04</p></td>
+<td class=3D"confluenceTd"><p>Youth are kind, respectful and inclusive of e=
+ach other.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C05</p></td>
+<td class=3D"confluenceTd"><p>When minor conflicts occur, youth are able to=
+ problem-solve together to resolve conflicts with minimal intervention.</p>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C06</p></td>
+<td class=3D"confluenceTd"><p>When negative or disrespectful peer interacti=
+ons occur (that are not resolved constructively by youth), staff intervene.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Over_C07</p></td>
+<td class=3D"confluenceTd"><p>Staff can communicate with youth and/or their=
+ families in their home language(s).</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_X (x between 1&amp;7)</p></td>
+<td class=3D"confluenceTd"><p>Activity Data Points, programs can have up to=
+ seven</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XA01</p></td>
+<td class=3D"confluenceTd"><p>Activities begin promptly.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XA02</p></td>
+<td class=3D"confluenceTd"><p>There are enough materials and supplies for t=
+he number of youth participating.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XA03</p></td>
+<td class=3D"confluenceTd"><p>Activity time is free from interruptions/dist=
+ractions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XA04</p></td>
+<td class=3D"confluenceTd"><p>Staff create adjustments and accommodations f=
+or youth based on their experiences and needs.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XB01</p></td>
+<td class=3D"confluenceTd"><p>The activity is part of an ongoing project, a=
+ctivity series or curricular unit designed to promote specific skills/conce=
+pts over time.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XB02</p></td>
+<td class=3D"confluenceTd"><p>Activity is challenging, stimulates thinking.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XB03</p></td>
+<td class=3D"confluenceTd"><p>Activity offers youth choice and decision-mak=
+ing.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XB04</p></td>
+<td class=3D"confluenceTd"><p>Activity offers youth opportunities to work c=
+ollaboratively in pairs, groups or as part of a team.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC01</p></td>
+<td class=3D"confluenceTd"><p>Staff are energetic, enthusiastic, and/or upb=
+eat.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC02</p></td>
+<td class=3D"confluenceTd"><p>Staff help spark and sustain youth's interest=
+ and curiosity throughout the activity.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC03</p></td>
+<td class=3D"confluenceTd"><p>Staff are actively engaged in activities with=
+ youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC04</p></td>
+<td class=3D"confluenceTd"><p>Staff encourage youth to share control, respo=
+nsibility, and decision-making.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC05</p></td>
+<td class=3D"confluenceTd"><p>When providing assistance to youth, staff hel=
+p youth think through problems and/or questions themselves rather than offe=
+ring answers.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC06</p></td>
+<td class=3D"confluenceTd"><p>Staff ask open-ended questions to facilitate =
+youth reflection during the activity.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XC07</p></td>
+<td class=3D"confluenceTd"><p>At the end of an activity period, staff engag=
+e youth in a structured time for feedback and reflection on the activity.</=
+p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD01</p></td>
+<td class=3D"confluenceTd"><p>Staff closely supervise youth and activities.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD02</p></td>
+<td class=3D"confluenceTd"><p>Staff interactions with youth (manner, affect=
+, tone) are positive and supportive.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD03</p></td>
+<td class=3D"confluenceTd"><p>Staff treat youth respectfully and assume bes=
+t intentions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD04</p></td>
+<td class=3D"confluenceTd"><p>Staff are able to quickly and positively gain=
+ youth's attention and cooperation when needed.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD05</p></td>
+<td class=3D"confluenceTd"><p>Staff are flexible in their management of you=
+th.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD06</p></td>
+<td class=3D"confluenceTd"><p>Staff use simple reminders and redirection to=
+ support positive behavior.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XD07</p></td>
+<td class=3D"confluenceTd"><p>When addressing behavioral issues, staff use =
+strategies that are developmentally appropriate.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE01</p></td>
+<td class=3D"confluenceTd"><p>Staff engage in friendly exchanges (chats) wi=
+th youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE02</p></td>
+<td class=3D"confluenceTd"><p>Staff encourage individual youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE03</p></td>
+<td class=3D"confluenceTd"><p>Staff exhibit appropriate, professional condu=
+ct around youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE04</p></td>
+<td class=3D"confluenceTd"><p>Staff listen (focus, pay attention) actively,=
+ attentively and patiently to youth during activity time.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE05</p></td>
+<td class=3D"confluenceTd"><p>When youth need or ask for help, staff provid=
+e individualized assistance to youth.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XE06</p></td>
+<td class=3D"confluenceTd"><p>When an individual youth is having a problem =
+or is upset, staff pay attention and try to help them.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XF01</p></td>
+<td class=3D"confluenceTd"><p>Youth show interest in staff; seek out positi=
+ve contact/interactions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XF02</p></td>
+<td class=3D"confluenceTd"><p>Youth are cooperative with staff's requests o=
+r directions.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XF03</p></td>
+<td class=3D"confluenceTd"><p>Youth listen (focus, pay attention) to staff.=
+</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XG01</p></td>
+<td class=3D"confluenceTd"><p>Youth are busy and engaged in conversation or=
+ activities.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XG02</p></td>
+<td class=3D"confluenceTd"><p>Youth follow program rules and behavioral exp=
+ectations.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XG03</p></td>
+<td class=3D"confluenceTd"><p>Youth appear in control of themselves; they r=
+egulate their behavior and energy to the environment.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XG04</p></td>
+<td class=3D"confluenceTd"><p>Youth help select, lead or contribute to the =
+running of the activity.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XG05</p></td>
+<td class=3D"confluenceTd"><p>Youth are cognitively engaged and/or focused =
+on solving problems.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XH01</p></td>
+<td class=3D"confluenceTd"><p>Peer interactions have a positive affective t=
+one; youth appear to enjoy each other's company.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XH02</p></td>
+<td class=3D"confluenceTd"><p>Youth listen (focus, pay attention) to each o=
+ther.</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Act_XH03</p></td>
+<td class=3D"confluenceTd"><p>Youth cooperate with each other.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<h4 id=3D"APT-AssessmentofProgramPracticesTool-CalculatedData"><u>Calculate=
+d Data </u></h4>
+<div id=3D"expander-469963239" class=3D"expand-container">
+<div id=3D"expander-control-469963239" class=3D"expand-control">
+<span class=3D"expand-control-icon"><img style=3D"vertical-align:middle;" c=
+lass=3D"expand-control-image" src=3D"03396af9c98cd12a3cdb23b02ea77f4c" widt=
+h=3D"16" height=3D"16"></span><span class=3D"expand-control-text">Expand fo=
+r List of Calculated Data Points</span>
+</div>
+<div id=3D"expander-content-469963239" class=3D"expand-content">
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"b72a0ac5-ceaf-4a4e-acb5-66a=
+010072914" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 181.0px;">
+<col style=3D"width: 230.0px;">
+<col style=3D"width: 347.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Calculated Data Code</strong></p></th=
+>
+<th class=3D"confluenceTh"><p><strong>Description / Notes</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Calculation</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Arrival_Mean</p></td>
+<td class=3D"confluenceTd"><p>Arrival Logistics and Greetings</p></td>
+<td class=3D"confluenceTd"><p>Average(ArrivalQ01, ArrivalQ02, ArrivalQ03, A=
+rrivalQ04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Build_Relations_Mean</p></td>
+<td class=3D"confluenceTd"><p>Staff Build Relationships &amp; Support Indiv=
+idual Youth</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1E01, ACT_2E01, ACT_3E01, ACT_4E0=
+1, ACT_5E01, ACT_6E01, ACT_7E01, ACT_1E02, ACT_2E02, ACT_3E02, ACT_4E02, AC=
+T_5E02, ACT_6E02, ACT_7E02, ACT_1E03, ACT_2E03, ACT_3E03, ACT_4E03, ACT_5E0=
+3, ACT_6E03, ACT_7E03, ACT_1E04, ACT_2E04, ACT_3E04, ACT_4E04, ACT_5E04, AC=
+T_6E04, ACT_7E04, ACT_1E05, ACT_2E05, ACT_3E05, ACT_4E05, ACT_5E05, ACT_6E0=
+5, ACT_7E05,<br>ACT_1E06, ACT_2E06, ACT_3E06, ACT_4E06, ACT_5E06, ACT_6E06,=
+ ACT_7E06)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Guide_Behave_Mean</p></td>
+<td class=3D"confluenceTd"><p>Staff Positively Guide Behavior</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1D01, ACT_2D01, ACT_3D01, ACT_4D0=
+1, ACT_5D01, ACT_6D01, ACT_7D01,<br>ACT_1D02, ACT_2D02, ACT_3D02, ACT_4D02,=
+ ACT_5D02, ACT_6D02, ACT_7D02, ACT_1D03, ACT_2D03, ACT_3D03, ACT_4D03, ACT_=
+5D03, ACT_6D03, ACT_7D03, ACT_1D04, ACT_2D04, ACT_3D04, ACT_4D04, ACT_5D04,=
+ ACT_6D04, ACT_7D04, ACT_1D05, ACT_2D05, ACT_3D05, ACT_4D05, ACT_5D05, ACT_=
+6D05, ACT_7D05,<br>ACT_1D06, ACT_2D06, ACT_3D06, ACT_4D06, ACT_5D06, ACT_6D=
+06, ACT_7D06, ACT_1D07, ACT_2D07, ACT_3D07, ACT_4D07, ACT_5D07, ACT_6D07, A=
+CT_7D07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HomeworkA_mean</p></td>
+<td class=3D"confluenceTd"><p>Staff Effectively Manage HW Time</p></td>
+<td class=3D"confluenceTd"><p>Average(HWTime_A1, HWTime_A2)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HomeworkB_mean</p></td>
+<td class=3D"confluenceTd"><p>Staff Provide Individualized HW Support</p></=
+td>
+<td class=3D"confluenceTd"><p>Average(HWTime_B1)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HomeworkC_mean</p></td>
+<td class=3D"confluenceTd"><p>Homework Organization</p></td>
+<td class=3D"confluenceTd"><p>Average(HWTime_C1, HWTime_C2, HWTime_C3)</p><=
+/td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HomeworkD_mean</p></td>
+<td class=3D"confluenceTd"><p>Youth Participation in HW Time</p></td>
+<td class=3D"confluenceTd"><p>Average(HWTime_D1, HWTime_D2, HWTime_D3, HWTi=
+me_D4, HWTime_D5)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Informal_staff_mean</p></td>
+<td class=3D"confluenceTd"><p>Informal Time: Staff Performance</p></td>
+<td class=3D"confluenceTd"><p>Average(InfoPro_A01, InfoPro_A02, InfoPro_A03=
+, InfoPro_A04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Informal_youth_mean</p></td>
+<td class=3D"confluenceTd"><p>Informal Time: Youth Performance</p></td>
+<td class=3D"confluenceTd"><p>Average(InfoPro_B01, InfoPro_B02, InfoPro_B03=
+, InfoPro_B04, InfoPro_B05, InfoPro_B06, InfoPro_B07, InfoPro_B08)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Nature_mean</p></td>
+<td class=3D"confluenceTd"><p>Nature of Activity</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1B01, ACT_2B01, ACT_3B01, ACT_4B0=
+1, ACT_5B01, ACT_6B01, ACT_7B01,<br>ACT_1B02, ACT_2B02, ACT_3B02, ACT_4B02,=
+ ACT_5B02, ACT_6B02, ACT_7B02, ACT_1B03, ACT_2B03, ACT_3B03, ACT_4B03, ACT_=
+5B03, ACT_6B03, ACT_7B03, ACT_1B04, ACT_2B04, ACT_3B04, ACT_4B04, ACT_5B04,=
+ ACT_6B04, ACT_7B04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Org_mean</p></td>
+<td class=3D"confluenceTd"><p>Organization of Activity</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1A01, ACT_2A01, ACT_3A01, ACT_4A0=
+1, ACT_5A01, ACT_6A01, ACT_7A01,<br>ACT_1A02, ACT_2A02, ACT_3A02, ACT_4A02,=
+ ACT_5A02, ACT_6A02, ACT_7A02, ACT_1A03, ACT_2A03, ACT_3A03, ACT_4A03, ACT_=
+5A03, ACT_6A03, ACT_7A03, ACT_1A04, ACT_2A04, ACT_3A04, ACT_4A04, ACT_5A04,=
+ ACT_6A04, ACT_7A04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>PeerRel_Mean</p></td>
+<td class=3D"confluenceTd"><p>Youth Relations with Peers</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1H01, ACT_2H01, ACT_3H01, ACT_4H0=
+1, ACT_5H01, ACT_6H01, ACT_7H01, ACT_1H02, ACT_2H02, ACT_3H02, ACT_4H02, AC=
+T_5H02, ACT_6H02, ACT_7H02, ACT_1H03, ACT_2H03, ACT_3H03, ACT_4H03, ACT_5H0=
+3, ACT_6H03, ACT_7H03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Promote_Engage_mean</p></td>
+<td class=3D"confluenceTd"><p>Staff Promote Engagement and Stimulate Thinki=
+ng</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1C01, ACT_2C01, ACT_3C01, ACT_4C0=
+1, ACT_5C01, ACT_6C01, ACT_7C01,<br>ACT_1C02, ACT_2C02, ACT_3C02, ACT_4C02,=
+ ACT_5C02, ACT_6C02, ACT_7C02, ACT_1C03, ACT_2C03, ACT_3C03, ACT_4C03, ACT_=
+5C03, ACT_6C03, ACT_7C03, ACT_1C04, ACT_2C04, ACT_3C04, ACT_4C04, ACT_5C04,=
+ ACT_6C04, ACT_7C04, ACT_1C05, ACT_2C05, ACT_3C05, ACT_4C05, ACT_5C05, ACT_=
+6C05, ACT_7C05,<br>ACT_1C06, ACT_2C06, ACT_3C06, ACT_4C06, ACT_5C06, ACT_6C=
+06, ACT_7C06, ACT_1C07, ACT_2C07, ACT_3C07, ACT_4C07, ACT_5C07, ACT_6C07, A=
+CT_7C07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Schedule_mean</p></td>
+<td class=3D"confluenceTd"><p>Schedule and Offering</p></td>
+<td class=3D"confluenceTd"><p>Average(Over_B01, Over_B02, Over_B03, Over_B0=
+4, Over_B05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>SocEmoEnviron_mean</p></td>
+<td class=3D"confluenceTd"><p>Social-Emotional Environment</p></td>
+<td class=3D"confluenceTd"><p>Average(Over_C01, Over_C02, Over_C03, Over_C0=
+4, Over_C05, Over_C06, Over_C07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Space_mean</p></td>
+<td class=3D"confluenceTd"><p>Space Adequacy</p></td>
+<td class=3D"confluenceTd"><p>Average(Over_A01, Over_A02, Over_A03, Over_A0=
+4, Over_A05, Over_A06)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Transition_mean</p></td>
+<td class=3D"confluenceTd"><p>Transitions</p></td>
+<td class=3D"confluenceTd"><p>Average(TransQ01, TransQ02, TransQ03, TransQ0=
+4, TransQ05, TransQ06, TransQ07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>YouthAdultRel_mean</p></td>
+<td class=3D"confluenceTd"><p>Youth Relations with Adults</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1F01, ACT_2F01, ACT_3F01, ACT_4F0=
+1, ACT_5F01, ACT_6F01, ACT_7F01, ACT_1F02, ACT_2F02, ACT_3F02, ACT_4F02, AC=
+T_5F02, ACT_6F02, ACT_7F02, ACT_1F03, ACT_2F03, ACT_3F03, ACT_4F03, ACT_5F0=
+3, ACT_6F03, ACT_7F03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>YouthPartic_mean</p></td>
+<td class=3D"confluenceTd"><p>Level of Youth Participation</p></td>
+<td class=3D"confluenceTd"><p>Average(ACT_1G01, ACT_2G01, ACT_3G01, ACT_4G0=
+1, ACT_5G01, ACT_6G01, ACT_7G01, ACT_1G02, ACT_2G02, ACT_3G02, ACT_4G02, AC=
+T_5G02, ACT_6G02, ACT_7G02, ACT_1G03, ACT_2G03, ACT_3G03, ACT_4G03, ACT_5G0=
+3, ACT_6G03, ACT_7G03, ACT_1G04, ACT_2G04, ACT_3G04, ACT_4G04, ACT_5G04, AC=
+T_6G04, ACT_7G04, ACT_1G05, ACT_2G05, ACT_3G05, ACT_4G05, ACT_5G05, ACT_6G0=
+5, ACT_7G05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_A01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1A01, Act_2A01, Act_3A01, Act_4A0=
+1, Act_5A01, Act_6A01, Act_7A01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_A02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1A02, Act_2A02, Act_3A02, Act_4A0=
+2, Act_5A02, Act_6A02, Act_7A02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_A03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1A03, Act_2A03, Act_3A03, Act_4A0=
+3, Act_5A03, Act_6A03, Act_7A03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_A04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1A04, Act_2A04, Act_3A04, Act_4A0=
+4, Act_5A04, Act_6A04, Act_7A04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_B01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1B01, Act_2B01, Act_3B01, Act_4B0=
+1, Act_5B01, Act_6B01, Act_7B01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_B02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1B02, Act_2B02, Act_3B02, Act_4B0=
+2, Act_5B02, Act_6B02, Act_7B02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_B03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1B03, Act_2B03, Act_3B03, Act_4B0=
+3, Act_5B03, Act_6B03, Act_7B03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_B04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1B04, Act_2B04, Act_3B04, Act_4B0=
+4, Act_5B04, Act_6B04, Act_7B04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C01, Act_2C01, Act_3C01, Act_4C0=
+1, Act_5C01, Act_6C01, Act_7C01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C02, Act_2C02, Act_3C02, Act_4C0=
+2, Act_5C02, Act_6C02, Act_7C02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C03, Act_2C03, Act_3C03, Act_4C0=
+3, Act_5C03, Act_6C03, Act_7C03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C04, Act_2C04, Act_3C04, Act_4C0=
+4, Act_5C04, Act_6C04, Act_7C04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C05_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C05, Act_2C05, Act_3C05, Act_4C0=
+5, Act_5C05, Act_6C05, Act_7C05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C06_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C06, Act_2C06, Act_3C06, Act_4C0=
+6, Act_5C06, Act_6C06, Act_7C06)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_C07_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1C07, Act_2C07, Act_3C07, Act_4C0=
+7, Act_5C07, Act_6C07, Act_7C07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D01, Act_2D01, Act_3D01, Act_4D0=
+1, Act_5D01, Act_6D01, Act_7D01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D02, Act_2D02, Act_3D02, Act_4D0=
+2, Act_5D02, Act_6D02, Act_7D02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D03, Act_2D03, Act_3D03, Act_4D0=
+3, Act_5D03, Act_6D03, Act_7D03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D04, Act_2D04, Act_3D04, Act_4D0=
+4, Act_5D04, Act_6D04, Act_7D04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D05_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D05, Act_2D05, Act_3D05, Act_4D0=
+5, Act_5D05, Act_6D05, Act_7D05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D06_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D06, Act_2D06, Act_3D06, Act_4D0=
+6, Act_5D06, Act_6D06, Act_7D06)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_D07_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1D07, Act_2D07, Act_3D07, Act_4D0=
+7, Act_5D07, Act_6D07, Act_7D07)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E01, Act_2E01, Act_3E01, Act_4E0=
+1, Act_5E01, Act_6E01, Act_7E01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E02, Act_2E02, Act_3E02, Act_4E0=
+2, Act_5E02, Act_6E02, Act_7E02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E03, Act_2E03, Act_3E03, Act_4E0=
+3, Act_5E03, Act_6E03, Act_7E03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E04, Act_2E04, Act_3E04, Act_4E0=
+4, Act_5E04, Act_6E04, Act_7E04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E05_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E05, Act_2E05, Act_3E05, Act_4E0=
+5, Act_5E05, Act_6E05, Act_7E05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_E06_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1E06, Act_2E06, Act_3E06, Act_4E0=
+6, Act_5E06, Act_6E06, Act_7E06)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_F01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1F01, Act_2F01, Act_3F01, Act_4F0=
+1, Act_5F01, Act_6F01, Act_7F01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_F02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1F02, Act_2F02, Act_3F02, Act_4F0=
+2, Act_5F02, Act_6F02, Act_7F02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_F03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1F03, Act_2F03, Act_3F03, Act_4F0=
+3, Act_5F03, Act_6F03, Act_7F03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_G01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1G01, Act_2G01, Act_3G01, Act_4G0=
+1, Act_5G01, Act_6G01, Act_7G01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_G02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1G02, Act_2G02, Act_3G02, Act_4G0=
+2, Act_5G02, Act_6G02, Act_7G02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_G03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1G03, Act_2G03, Act_3G03, Act_4G0=
+3, Act_5G03, Act_6G03, Act_7G03)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_G04_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1G04, Act_2G04, Act_3G04, Act_4G0=
+4, Act_5G04, Act_6G04, Act_7G04)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_G05_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1G05, Act_2G05, Act_3G05, Act_4G0=
+5, Act_5G05, Act_6G05, Act_7G05)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_H01_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1H01, Act_2H01, Act_3H01, Act_4H0=
+1, Act_5H01, Act_6H01, Act_7H01)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_H02_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1H02, Act_2H02, Act_3H02, Act_4H0=
+2, Act_5H02, Act_6H02, Act_7H02)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ACT_H03_Mean</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+<td class=3D"confluenceTd"><p>Average(Act_1H03, Act_2H03, Act_3H03, Act_4H0=
+3, Act_5H03, Act_6H03, Act_7H03)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_4_1594296068.1666186446474
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/be99cc9e1b14c5254d06e63fac84e1e3
+
+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
+MrtlfD51rWVIuHUNZcHszTvWdkFkrVHos0e3XrnktZlQInHCS0TXdkFcQ+La7nhilht23FaAcr7v
+DnBAJxubG5FEdHBm+N3yT14vPfF62YnXSj+wD146WvHxjcayzqGGpoYvB5vfG23JHCNN74w0HZ5r
+PTLb+vZYy7GxlvfoGG55v7nuo+m5/kRyh89XWaK/fYkTXiJeNTFaYp9O7NArYf6166oMNddV153E
+3mzvdL2O/4n+IeFaJj7szbo2ruDfMtfraJz4XEfXdkFcQ2K04AUDOoTWgQ3o3cPz/+P9yv/195f+
+7tDNd883XXg2WdK+evX50uknEzSgl3Wtf31/9OsHo5ebF8/XzVyuHhmZXukcXvj5yfCFupmLjfN0
+XG5ZvNm5Tpsre6OlHWuXm+Yv1k1/Vdn7X96p+P/96crfHy19+nw0mdqzX4tOn0/1p1T5udU1JNy6
+hrJg9uYda1lIHBrkkrFnx5xQremEC80/sU/0X2Wu7Y4nem2Q5BLRtQwLUM733cEO6CSWjA/ODGUG
+9Jsf/Pn6sd9dOvy7i3Qc+uW4dPgPV46+WnKcBvTrjWXj86NDY8+7e+9091R2dVe0tF1+/OSD9tp3
+25q+7uws6e6poLy753b/cG0kupLe2Jt/4d/+23f9ICHGTt1Socmc6VDSOfOpJU54iehahprrqv9O
+xq290/U6PgXxCiUZcm3gJcYt50TXMiT+LaNQskNuOWey1bVdENeQGC14wYAOoXVgA3r7wOx/PVr6
+//71z3/zesnxa50V3dFbfbFLTQvfPhqv6ImVdq5/cXfoxI3uL+4Nf1LR/82tnrb+uZa+2bOPhi7U
+z15pWaJR/nrbSll35HZ//M5Agh7puNUb+/7p5N8drfj//PbSf3zzxsPG4T0c0EkOn39dQ1kwe7NX
+Taj1WfWitxn7d5V7bSb+iVHLlujWK2fcytD1xB03sCy3FZSc77tCG9B/nxnQxXR+8dDvLx1yBvT3
+j1Z8dKOxfHF9KZlKJBKxeCKyHl3tGW27/uCL+rbS6fmhaGyVQueI0p7M7315+ZeyObL8ICHGTm7t
+DTtuY/aJzKtmrqv2NuK66rXTwCGvajIxap8loyCyNthL9omulzJO9G+ZHcqEa5/r6NouiGtIjBa8
+YECH0DrIAf2/HC39X3594W/euEmDeGVvjCbsi00L3zwcK+uK0PD95b3h04/HaRa/3Lzwc930zZrh
++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
+------=_Part_4_1594296068.1666186446474
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/03396af9c98cd12a3cdb23b02ea77f4c
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAA3NCSVQICAjb4U/gAAAAFVBMVEX/
+//9wcHBwcHBwcHBwcHBwcHBwcHA3RenHAAAAB3RSTlMAZoiZzN3/SzZomQAAAAlwSFlzAAALEgAA
+CxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENy
+ZWF0aW9uIFRpbWUANi8xLzEzOKlF0AAAACFJREFUCJljYCATsCgwqIAZTMnMyRAhsTABCIMxkVxT
+GQCLcwHyUKXpLgAAAABJRU5ErkJggg==
+------=_Part_4_1594296068.1666186446474--
