@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.6.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "layer": [{"data": {"name": "data-c0b60339fc59e2c4e2b239178f470dc7"}, "mark": {"type": "line"}, "encoding": {"color": {"value": "#7570b3"}, "x": {"field": "Term", "type": "nominal"}, "y": {"field": "Average Attendace (%)", "scale": {"domain": [0, 100]}, "type": "quantitative"}}}, {"data": {"name": "data-2bd32db926821f7c73431ee957dd04cd"}, "mark": {"type": "line", "strokeDash": [4, 4]}, "encoding": {"color": {"value": "#7570b3"}, "x": {"field": "Term", "type": "nominal"}, "y": {"field": "Average Attendace (%)", "type": "quantitative"}}}, {"data": {"name": "data-c0b60339fc59e2c4e2b239178f470dc7"}, "mark": {"type": "point"}, "encoding": {"color": {"value": "#7570b3"}, "tooltip": [{"field": "Total Students", "type": "quantitative"}, {"field": "Average Attendance (#)", "type": "quantitative"}], "x": {"field": "Term", "type": "nominal"}, "y": {"field": "Average Attendace (%)", "scale": {"domain": [0, 100]}, "type": "quantitative"}}}], "title": "Average Attendace Over Terms", "width": 250, "$schema": "https://vega.github.io/schema/vega-lite/v5.6.1.json", "datasets": {"data-c0b60339fc59e2c4e2b239178f470dc7": [{"Term": "summer 2017", "Total Students": 118.0, "Average Attendace (%)": 82.0, "Average Attendance (#)": 96.75999999999999}, {"Term": "summer 2018", "Total Students": 107.0, "Average Attendace (%)": 83.0, "Average Attendance (#)": 88.81}, {"Term": "summer 2019", "Total Students": 82.0, "Average Attendace (%)": 74.0, "Average Attendance (#)": 60.68}, {"Term": "summer 2020", "Total Students": null, "Average Attendace (%)": null, "Average Attendance (#)": null}, {"Term": "summer 2021", "Total Students": 113.0, "Average Attendace (%)": 79.0, "Average Attendance (#)": 89.27000000000001}, {"Term": "summer 2022", "Total Students": 81.0, "Average Attendace (%)": 78.0, "Average Attendance (#)": 63.18}], "data-2bd32db926821f7c73431ee957dd04cd": [{"Term": "summer 2019", "Average Attendace (%)": 74}, {"Term": "summer 2021", "Average Attendace (%)": 79}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
